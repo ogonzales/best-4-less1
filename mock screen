@@ -135,8 +135,7 @@ button {
               <tr>
                 <td width="283" >&nbsp;</td>
                 </tr>
-              </table>
-              <img src="file:///C|/Users/olivi/Downloads/best for less1.png" alt="" width="255" height="197" align="middle"/></td>
+              </table></td>
             </tr>
           <tr> 
             <!-- HTML Spacer row -->
@@ -151,7 +150,8 @@ button {
             <td><table width="100%"  align="left" cellpadding="0" cellspacing="0">
               <tr> 
                 <!-- row container for TITLE/EMAIL THEME -->
-                <td align="center" style="font-size: 32px; font-weight: 300; line-height: 2.5em; color: #929292; font-family: sans-serif;">Best 4 Less</td>
+                <td align="center" style="font-size: 32px; font-weight: 300; line-height: 2.5em; color: #929292; font-family: sans-serif;"><p><img src="best for less1.png" alt=""/></p>
+                  <p>Best 4 Less</p></td>
                 </tr>
               <tr> 
                 <!-- row container for Tagline -->
